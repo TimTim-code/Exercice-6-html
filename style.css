@@ -1,0 +1,63 @@
+.container{
+    display: flex; 
+    width: 100%;
+   
+/*Premier container*/
+}
+
+#green {
+    background:#2ecc71;
+    height: 30px;
+    width: 80%;
+
+}
+
+#blue {
+    background: #2980b9;
+    height: 30px;
+    width: 20%;
+}
+
+/*Deuxième container*/
+#red {
+    background: #e74c3c;
+    height: 50px;
+    width: 33.33%;
+}
+#orange {
+    background: #e67e23;
+    height: 50px;
+    width: 33.33%;
+}
+#gris {
+    background: #95a5a6;
+    height: 50px;
+    width: 33.33%;
+}
+/*Troisième container*/
+#red1 {
+    background: #e74c3c;
+    height: 50px;
+    width: 33.33%;
+}
+#orange-clair {
+    background: #f39c12;
+    height: 50px;
+    width: 22.22%;
+}
+#vert {
+    background: #16a185;
+    height: 50px;
+    width: 22.22%;
+}
+#orange-foncer {
+    background: #d35400;
+    height: 50px;
+    width: 22.22%;
+}
+/*Quatrième container*/
+#Bleu-foncer {
+    background: #2c3f51;
+    height: 100px;
+    width: 100%;
+}
